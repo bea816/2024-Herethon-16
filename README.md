@@ -55,14 +55,14 @@
 
   ```
   📂 all_project
+  +---static
+  |   +---css
+  |   +---img
+  |   \---js
   +---accounts
   |   +---__pycache__
   |   +---migrations
   |   |   \---__pycache__
-  |   +---static
-  |   |   +---css
-  |   |   +---img
-  |   |   \---js
   |   +---templates
   |   |   +---accounts
   |   |   |   +---create_my_video.html
@@ -97,10 +97,6 @@
   |   +---__pycache__
   |   +---migrations
   |   |   \---__pycache__
-  |   +---static
-  |   |   +---css
-  |   |   +---img
-  |   |   \---js
   |   +---templates
   |   |   +---portfolios
   |   |   |   +---portfolio_detail.html
@@ -116,10 +112,6 @@
   |   +---__pycache__
   |   +---migrations
   |   |   \---__pycache__
-  |   +---static
-  |   |   +---css
-  |   |   +---img
-  |   |   \---js
   |   +---templates
   |   |   +---videos
   |   |   |   +---search.html
