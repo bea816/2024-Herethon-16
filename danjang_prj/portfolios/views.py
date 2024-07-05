@@ -3,7 +3,7 @@ from .models import *
 from accounts.models import *
 from django.contrib.auth.decorators import login_required
 
-# 포트폴리오 보기
+# 포트폴리오 리스트
 @login_required
 def portfolio_list(request):
     roles = Role.objects.all()
