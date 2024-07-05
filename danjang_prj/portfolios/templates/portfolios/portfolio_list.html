@@ -18,6 +18,7 @@
     <a href="{% url 'accounts:logout' %}">로그아웃</a>
     <hr>
     <!-- 본문 -->
+    <!-- 셀릭 없이하는 코드로 수정
     <form method="GET">
         <b>전문분야 필터</b><br>
         {% for role in roles %}
@@ -26,6 +27,13 @@
             {{ role.name }}
         {% endfor %}
         <button type="submit">필터 적용</button>
+    </form>
+    -->
+    <form method="GET">
+        <b>전문분야 필터</b><br>
+        {% for role in roles %}
+            <a href="?roles={{ role.id }}">{{ role.name }}</a>
+        {% endfor %}
     </form>
     <hr>
     {% for portfolio in portfolios %}
