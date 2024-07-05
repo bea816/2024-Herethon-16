@@ -4,8 +4,8 @@
 <hr/>
 
 - **서비스 소개**
-
-블라블라
+<span>MZ세대인 단편 영화인들의 성장을 위한 서비스: 단장</span>
+<span><a href="https://ibb.co/hmjvYd3"><img src="https://i.ibb.co/QKRGDHy/Kakao-Talk-20240705-224148487.jpg" alt="Kakao-Talk-20240705-224148487" border="0"></a></span>
 
 - **기술 스택**
 
@@ -26,12 +26,12 @@
   <td  align="center">정세윤</a></td>
   </tr>
   <tr width="100%">
-  <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/sWXnzcJ/befbedf87e51f5b02aac8b882ada60fd-sticker.png" border="0" width="90px"></a></td>
-  <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/2WR24Hr/image.png" border="0" width="90px"></a></td>
-  <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/sqLZXG8/image.png" border="0" width="90px"></a></td>
-    <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/V3pySTC/5319-CD6-B-9-BA7-4841-A518-5-CFC40800289.png" border="0" width="90px"></a></td>
-  <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/dKy52WJ/image.png" border="0" width="90px"></a></td>
-  <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/2KDG82L/d006044e5996d0023cd2e18425aa4677-sticker.png"  border="0" width="90px"></a></td>
+  <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/xhX2djw/Kakao-Talk-20240705-223927977.png" alt="Kakao-Talk-20240705-223927977" border="0" width="90px"></a></td>
+  <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/7yRjftN/Kakao-Talk-20240705-222032207.png" alt="Kakao-Talk-20240705-222032207" border="0" width="90px"></a></td>
+  <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/3RsXJjx/Kakao-Talk-20240705-222209507.png" alt="Kakao-Talk-20240705-222209507" border="0" width="90px"></a></td>
+    <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/CbVZwGD/Kakao-Talk-20240705-215519338.png" alt="Kakao-Talk-20240705-215519338" border="0"width="90px"></a></td>
+  <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/LpLKYcG/Kakao-Talk-20240705-222222797.png" alt="Kakao-Talk-20240705-222222797" border="0" width="90px"></a></td>
+  <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/BZssYLL/Kakao-Talk-20240705-222119219.png" alt="Kakao-Talk-20240705-222119219" border="0" width="90px"></a></td>
   </tr>
   <tr width="100%">
   <td  align="center">기획·디자인</td>
@@ -43,9 +43,9 @@
   </tr>
       <tr width="100%">
           <td  align="center"><p>성신여자대학교</p><p>전체 서비스 기획 및 디벨롭</p><p>전체 페이지 디자인</p></td>
-           <td  align="center"><p>숙명여자대학교</p><p>..</p><p>..</p></td>
-            <td  align="center"><p>성신여자대학교</p><p>..</p><p>..</p></td>
-            <td  align="center"><p>서울여자대학교</p><p>..</p><p>..</p></td>
+           <td  align="center"><p>숙명여자대학교</p><p>메인페이지 구현</p><p>마이페이지 구현</p></td>
+            <td  align="center"><p>성신여자대학교</p><p>회원가입/로그인 페이지 구현</p><p>포트폴리오 페이지 구현</p></td>
+            <td  align="center"><p>서울여자대학교</p><p>영상 디테알, 업로드 페이지 구현</p><p>검색 페이지 구현</p></td>
             <td  align="center"><p>덕성여자대학교</p><p>유저 기능</p><p>마이페이지 기능</p></td>
             <td  align="center"><p>동덕여자대학교</p><p>메인 페이지 기능</p><p>포트폴리오 기능</p></td>
      </tr>
