@@ -4,6 +4,7 @@
 <hr/>
 
 - **서비스 소개**
+  
 <span>MZ세대인 단편 영화인들의 성장을 위한 서비스: 단장</span>
 <span><a href="https://ibb.co/hmjvYd3"><img src="https://i.ibb.co/QKRGDHy/Kakao-Talk-20240705-224148487.jpg" alt="Kakao-Talk-20240705-224148487" border="0"></a></span>
 
